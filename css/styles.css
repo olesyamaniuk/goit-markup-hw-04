@@ -363,7 +363,7 @@ body {
   display: flex;
   padding: 40px 32px;
 
-  color: #111111;
+  color: #f4f4fd;
   background: var(--IRIS, #4d5ae5);
   overflow: auto;
   height: 100%;
